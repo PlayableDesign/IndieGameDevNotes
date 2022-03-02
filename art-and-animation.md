@@ -1,2 +1,0 @@
-# Art and Animation
-
