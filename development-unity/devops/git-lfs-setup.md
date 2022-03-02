@@ -1,4 +1,4 @@
-# Page 1
+# Git LFS Setup
 
 Ensure you have a git client and git LFS installed (LFS is a seperate install).
 

@@ -23,7 +23,7 @@
   * [Art Tools](art-and-animation/art-tools.md)
 * [Development - Unity](development-unity/README.md)
   * [DevOps](development-unity/devops/README.md)
-    * [Page 1](development-unity/devops/page-1.md)
+    * [Git LFS Setup](development-unity/devops/git-lfs-setup.md)
   * [Particles](development-unity/particles/README.md)
     * [Changing Burst at Runtime](development-unity/particles/changing-burst-at-runtime.md)
   * [2D](development-unity/2d/README.md)
