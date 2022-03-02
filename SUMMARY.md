@@ -22,6 +22,8 @@
   * [Animation Tools](art-and-animation/animation-tools.md)
   * [Art Tools](art-and-animation/art-tools.md)
 * [Development - Unity](development-unity/README.md)
+  * [DevOps](development-unity/devops/README.md)
+    * [Page 1](development-unity/devops/page-1.md)
   * [Particles](development-unity/particles/README.md)
     * [Changing Burst at Runtime](development-unity/particles/changing-burst-at-runtime.md)
   * [2D](development-unity/2d/README.md)
