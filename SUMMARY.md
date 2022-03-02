@@ -24,6 +24,7 @@
 * [Development - Unity](development-unity/README.md)
   * [DevOps](development-unity/devops/README.md)
     * [Git LFS Setup](development-unity/devops/git-lfs-setup.md)
+    * [Azure Pipelines Build](development-unity/devops/azure-pipelines-build.md)
   * [Particles](development-unity/particles/README.md)
     * [Changing Burst at Runtime](development-unity/particles/changing-burst-at-runtime.md)
   * [2D](development-unity/2d/README.md)
