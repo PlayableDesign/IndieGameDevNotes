@@ -3,8 +3,6 @@ description: Notes from the Field
 coverY: 0
 ---
 
-# Indie Game Dev
+# Indie Game Development
 
-
-
-![](.gitbook/assets/favicon.png)
+A collection of topics, sometimes opinionated, about solo or small studio indie game development.
