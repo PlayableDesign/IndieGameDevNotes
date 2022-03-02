@@ -38,5 +38,6 @@
   * [Unity Coroutines](development-unity/unity-coroutines.md)
   * [Deployment with Samsung Secure Folders](development-unity/deployment-with-samsung-secure-folders.md)
   * [Game Objects Stuck in Your Navmesh](development-unity/game-objects-stuck-in-your-navmesh.md)
-  * [Scriptable Objects](development-unity/scriptable-objects.md)
+  * [Scriptable Objects](development-unity/scriptable-objects/README.md)
+    * [ScriptableObject as Events](development-unity/scriptable-objects/scriptableobject-as-events.md)
 * [Writing](writing.md)
