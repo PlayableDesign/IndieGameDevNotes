@@ -29,6 +29,8 @@ Hashtags with specific purposes:
 #PitchYaGame
 #FF
 #NYMakesGames
+#WishlistWednesday
+#solodev
 ```
 
 Further Reading:
